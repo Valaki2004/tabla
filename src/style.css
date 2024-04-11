@@ -1,0 +1,8 @@
+body{
+    background-image: -webkit-linear-gradient(bottom,red,green,blue);
+    height: 1000px;
+}
+.fej{
+    text-align: center;
+    color: white;
+}
